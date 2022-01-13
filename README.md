@@ -8,4 +8,6 @@
 
 -----
 
+### EXEMPLO
+
 ![This is an image](https://raw.githubusercontent.com/fundunespinformatica/entrevista-php-modelo/master/triangle-challenge.png?token=GHSAT0AAAAAABQRM3ZERH4MMR635T7ZZUVYYPADBQA)
