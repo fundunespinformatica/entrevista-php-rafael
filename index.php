@@ -25,8 +25,7 @@ require "./Controllers/Triangulo.php";
         <?php
         if (!empty($_POST["numTriangulos"])) {
             $numero = $_POST["numTriangulos"];
-
-            $triangulo = new Triangulo($numero);
+            $triangulo = new Triangulo();
             $resultado = $triangulo->gerarTriangulo($numero);
         }
         ?>
